@@ -1,4 +1,4 @@
-# Sales and Volume Analysis of FMCG Business Analytics
+# Sales and Profit Analysis of FMCG Business Analytics
 
 ### Content:
 * [FMCG PROJECT REPORT](#FMCG-PROJECT-REPORT)
