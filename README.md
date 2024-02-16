@@ -35,7 +35,7 @@ In this project, I delved into the realm of Fast-Moving Consumer Goods (FMCG), w
 
 * Top Performing Products: Identification of top-selling products and their profitability provided valuable insights into consumer preferences and market demand, informing inventory management and marketing strategies.
 
-#### Conclusion:
+### Conclusion:
 
 This project underscores the importance of data-driven decision-making in the FMCG industry, leveraging analytics to drive operational efficiency and strategic growth. By harnessing the power of Excel's analytical capabilities, I demonstrated the potential to unlock actionable insights from vast datasets, empowering stakeholders to make informed decisions and capitalize on market opportunities effectively.
 
